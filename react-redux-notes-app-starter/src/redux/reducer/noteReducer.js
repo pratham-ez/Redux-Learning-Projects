@@ -44,7 +44,7 @@ const notesReducer = (state = initialState , action) =>{
                 }
 
 
-        default:
+        default:    
             return state;
     }
 }
